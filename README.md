@@ -7,7 +7,8 @@ You can add tasks, mark them as completed, and delete them easily with a smooth 
 
 GIF showing how the application works 👇
 
-<img src="./public/todo.gif" width="450" />
+<img src="./public/todo-app.gif" width="450" />
+
 🚀 Features
 
 ➕ Add new tasks
